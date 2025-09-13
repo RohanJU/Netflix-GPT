@@ -1,7 +1,10 @@
 # PrimeGPT 
   - create react app;
   - configured tailwind css
-  -
+  - Header
+  - Login form
+  - signup form
+  
 
 
 
